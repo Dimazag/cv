@@ -66,6 +66,7 @@ p {
 
 #name {
 	float: left;
+	margin-top: 7px;
 }
 
 #contactDetails {
@@ -75,7 +76,7 @@ p {
 #contactDetails ul {
 	list-style-type: none;
 	font-size: 0.9em;
-	margin-top: 15px;
+	margin-top: 19px;
 }
 
 #contactDetails ul li {
